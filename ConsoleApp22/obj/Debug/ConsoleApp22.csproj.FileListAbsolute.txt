@@ -1,0 +1,22 @@
+c:\users\ariel\documents\visual studio 2017\Projects\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+c:\users\ariel\documents\visual studio 2017\Projects\ConsoleApp22\ConsoleApp22\bin\Debug\Newtonsoft.Json.dll
+c:\users\ariel\documents\visual studio 2017\Projects\ConsoleApp22\ConsoleApp22\bin\Debug\PushbulletSharp.dll
+C:\Users\ariel\Documents\Visual Studio 2017\Projects\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\ariel\Documents\Visual Studio 2017\Projects\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\ariel\Documents\Visual Studio 2017\Projects\ConsoleApp22\ConsoleApp22\bin\Debug\BouncyCastle.dll
+C:\Users\ariel\Documents\Visual Studio 2017\Projects\ConsoleApp22\ConsoleApp22\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ariel\Documents\Visual Studio 2017\Projects\ConsoleApp22\ConsoleApp22\bin\Debug\PushbulletSharp.pdb
+C:\Users\ariel\Documents\Visual Studio 2017\Projects\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\ariel\Documents\Visual Studio 2017\Projects\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
+C:\Users\ariel\Documents\Visual Studio 2017\Projects\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csprojResolveAssemblyReference.cache
+E:\bitbucket\Nam\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+E:\bitbucket\Nam\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+E:\bitbucket\Nam\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+E:\bitbucket\Nam\ConsoleApp22\bin\Debug\BouncyCastle.dll
+E:\bitbucket\Nam\ConsoleApp22\bin\Debug\Newtonsoft.Json.dll
+E:\bitbucket\Nam\ConsoleApp22\bin\Debug\PushbulletSharp.dll
+E:\bitbucket\Nam\ConsoleApp22\bin\Debug\Newtonsoft.Json.xml
+E:\bitbucket\Nam\ConsoleApp22\bin\Debug\PushbulletSharp.pdb
+E:\bitbucket\Nam\ConsoleApp22\obj\Debug\ConsoleApp22.csprojResolveAssemblyReference.cache
+E:\bitbucket\Nam\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+E:\bitbucket\Nam\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
