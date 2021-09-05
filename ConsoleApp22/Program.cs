@@ -37,9 +37,9 @@ namespace ConsoleApp22
                         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
                         request.UserAgent = "Mozilla/5.0 (Amiga; U; AmigaOS 1.3; en; rv:1.8.1.19) Gecko/20081204 SeaMonkey/1.1.14";
                         dynamic jsonObj = new object();
-                        IWebProxy proxy = new WebProxy("zproxy.lum-superproxy.io", 22225);
-                        string proxyUsername = @"lum-customer-socialboost-zone-mobile-country-us";
-                        string proxyPassword = @"oxr1zri6cfhs";
+                        IWebProxy proxy = new WebProxy("", 22225);
+                        string proxyUsername = @"";
+                        string proxyPassword = @"";
                         proxy.Credentials = new NetworkCredential(proxyUsername, proxyPassword);
                         request.Proxy = proxy;
                         using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
@@ -53,7 +53,7 @@ namespace ConsoleApp22
 
                             if (count == 1) 
                             {
-                                var Client = new PushbulletClient("o.csiq6uFbgIejWZxujhIim6gqhZVshD5q");
+                                var Client = new PushbulletClient("PUSHBULLET_ID");
                                 PushNoteRequest reqeust = new PushNoteRequest()
                                 {
                                     ChannelTag = "fqwfgnqwdlf",
